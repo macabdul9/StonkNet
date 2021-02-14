@@ -1,3 +1,15 @@
+# custom ignore
+.ipynb_checkpoints/
+wandb/
+
+/home/macab/research/StonkNet/stocknet-dataset/
+
+
+*.csv
+*.zip
+
+/stocknet-dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
